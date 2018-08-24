@@ -1,6 +1,6 @@
-# vue-todo
+# vue-todoList
 
-> todo-list
+> Danport todo-list
 
 ## Build Setup
 
